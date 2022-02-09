@@ -1,4 +1,0 @@
-steps:
-  - command: "echo 'hello world 1'"
-    label: Hello World
-  - command: "echo 'hello world 2'"
