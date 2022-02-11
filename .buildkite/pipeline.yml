@@ -1,2 +1,6 @@
+env:
+  SLACK_NOTIFICATIONS_CHANNEL: '#ship-it'
+  SLACK_NOTIFICATIONS_ENABLED: 'true'
+  SLACK_NOTIFICATIONS_ON_SUCCESS: 'true'
 steps:
   - command: 'echo "hello world"'
